@@ -1,0 +1,12 @@
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/bin/Debug/netcoreapp3.1/puzzles.deps.json
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/bin/Debug/netcoreapp3.1/puzzles.runtimeconfig.json
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/bin/Debug/netcoreapp3.1/puzzles.runtimeconfig.dev.json
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/bin/Debug/netcoreapp3.1/puzzles.dll
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/bin/Debug/netcoreapp3.1/puzzles.pdb
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/obj/Debug/netcoreapp3.1/puzzles.csprojAssemblyReference.cache
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/obj/Debug/netcoreapp3.1/puzzles.AssemblyInfoInputs.cache
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/obj/Debug/netcoreapp3.1/puzzles.AssemblyInfo.cs
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/obj/Debug/netcoreapp3.1/puzzles.csproj.CoreCompileInputs.cache
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/obj/Debug/netcoreapp3.1/puzzles.dll
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/obj/Debug/netcoreapp3.1/puzzles.pdb
+/Users/tito/Desktop/Coding_Dojo/CSharp/Fundamentals/puzzles/obj/Debug/netcoreapp3.1/puzzles.genruntimeconfig.cache
